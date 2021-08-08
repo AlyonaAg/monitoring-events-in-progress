@@ -1,0 +1,1 @@
+C:\Users\Asus\source\repos\Labs2\obj\Release_x64\detours\detours.lib
